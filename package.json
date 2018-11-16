@@ -1,0 +1,28 @@
+{
+  "name": "@um/plot",
+  "version": "0.1.0",
+  "description": "Umbiliko vertorial graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umbiliko/um-plot.git"
+  },
+  "keywords": [
+    "Vector",
+    "Graphics"
+  ],
+  "author": "Lucas Martinez",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/umbiliko/um-plot/issues"
+  },
+  "homepage": "https://github.com/umbiliko/um-plot#readme",
+  "dependencies": {
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
+    "typescript": "^3.1.3"
+  }
+}
